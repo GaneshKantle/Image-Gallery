@@ -13,6 +13,14 @@ A basic **Image Gallery** project built using **HTML, CSS, and JavaScript**. Thi
 - **CSS**: Provides styling, including hover animations and responsive layout.
 - **JavaScript**: Enables image click events for fullscreen viewing and interaction.
 
+## Sample Outputs
+### Before Hovering
+![image](https://github.com/user-attachments/assets/e26a1cca-0ac8-4b7d-bc3f-ffd2f6ce2e05)
+
+### After Hovering
+![image](https://github.com/user-attachments/assets/aed8c56d-ca6a-430c-8a80-e50d5c35bf6c)
+
+
 ## How to Use
 To run the project locally, follow these steps:
 1. Clone the repository:
