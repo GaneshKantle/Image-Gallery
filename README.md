@@ -13,7 +13,7 @@ A basic **Image Gallery** project built using **HTML, CSS, and JavaScript**. Thi
 Directory structure:
 └── ganeshkantle-image-gallery/
     ├── README.md
-    ├── Index.html
+    ├── index.html
     ├── Javascript.js
     ├── LICENSE
     ├── Style.css
