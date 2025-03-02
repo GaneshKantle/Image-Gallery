@@ -2,7 +2,7 @@
 A basic **Image Gallery** project built using **HTML, CSS, and JavaScript**. This project showcases an interactive image gallery with hover animations and fullscreen viewing capabilities, offering an engaging and accessible user experience.
 
 ## Repo is live
-![Click Here](https://ganeshkantle.github.io/Image-Gallery/)
+https://ganeshkantle.github.io/Image-Gallery/
 
 ## Features
 - **Hover Animation**: Images rotate slightly when hovered, adding a dynamic visual effect.
